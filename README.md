@@ -1,4 +1,5 @@
-# SRP Workshop 2019
+## Software Requirements
+Before the workshop, please follow the instructions in [this document](0Software Requirements_2017.pdf)
 
 ## Welcome to GitHub Pages
 
