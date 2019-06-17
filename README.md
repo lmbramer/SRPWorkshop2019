@@ -8,7 +8,7 @@ Please follow the instructions in [this document](Software_Requirements_2019.pdf
 * 8:30 - 9:30: __RNAseq Overview__ (Lecture)
 * 9:30 - 10:00: __Post-Sequencing QC__ (Lecture)
 * 10:00 - 10:30: __Primary Processing and QC__ (Lecture)
-* 10:30 -10:45: __BREAK__
+* 10:30 - 10:45: __BREAK__
 * 10:45 - 12:45: __Intro to R/RStudio (Hands-on)__
 * 12:45 - 1:45: __LUNCH (On your own)__: 
 * 1:45 - 2:45: __Power Analysis in R & Study Design__ (Lecture & Hands-on) 
