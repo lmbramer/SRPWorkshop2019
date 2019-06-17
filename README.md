@@ -1,5 +1,6 @@
-## Software Requirements
-Before the workshop, please follow the instructions in [this document](0Software Requirements_2017.pdf)
+## Pre-Workshop
+### Software Requirements
+Please follow the instructions in [this document](Software_Requirements_2019.pdf)
 
 ## Workshop Agenda & Materials
 
