@@ -4,6 +4,12 @@ Please follow the instructions in [this document](Software_Requirements_2019.pdf
 
 ## Workshop Agenda & Materials
 
+### Data Files
+* <a href="DEGs_5_PAHs.csv" download> DEGs\_5\_PAHs.csv </a>
+* <a href="Norm_Data_Zebrafish_Top5k_CV.csv" download> Norm\_Data\_Zebrafish\_Top5k\_CV.csv </a>
+* <a href="Norm_Data_Zebrafish_Top500_CV_NoOutliers_RepsAv.csv" download> Norm\_Data\_Zebrafish\_Top500\_CV\_NoOutliers\_RepsAv.csv </a>
+* <a href="Zebrafish_Condition_Info.csv" download> Zebrafish\_Condition\_Info.csv </a>
+
 ### Day 1 (Thursday 6/27)
 * 8:30 - 9:30: __RNAseq Overview__ (Lecture)
 * 9:30 - 10:00: __Post-Sequencing QC__ (Lecture)
