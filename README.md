@@ -4,6 +4,8 @@ Please follow the instructions in [this document](Software_Requirements_2019.pdf
 
 ## Workshop Agenda & Materials
 
+Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statistics_Workshop_Agenda.pdf)
+
 ### Data Files
 * <a href="DEGs_5_PAHs.csv" download> DEGs\_5\_PAHs.csv </a>
 * <a href="Norm_Data_Zebrafish_Top5k_CV.csv" download> Norm\_Data\_Zebrafish\_Top5k\_CV.csv </a>
@@ -12,6 +14,7 @@ Please follow the instructions in [this document](Software_Requirements_2019.pdf
 
 ### Day 1 (Thursday 6/27)
 * 8:30 - 9:30: __RNAseq Overview__ (Lecture)
+	* <a href="Intro_&_Experimental_Design_Tilton.pdf" download> Intro and Experimental Design Slides </a>
 * 9:30 - 10:00: __Post-Sequencing QC__ (Lecture)
 	* <a href="Post_Sequencing_Transcriptomic_Data_QC.pptx" download> Post Sequencing Transcriptomic Data QC Slides</a>
 * 10:00 - 10:30: __Primary Processing and QC__ (Lecture)
