@@ -27,6 +27,9 @@ Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statist
 	* <a href="tidyverse.zip" download> Tidyverse R Presentation Example </a>
 * 12:45 - 1:45: __LUNCH (On your own)__: 
 * 1:45 - 2:45: __Power Analysis in R & Study Design__ (Lecture & Hands-on) 
+	* <a href="Experimental_Design_and_Power.pdf" download> Experimental Design and Power Slides</a>
+	* <a href="power_examples.R" download> power\_examples.R</a>
+	* <a href="Power_Example_Data.csv" download> Power\_Example\_Data.csv</a>
 * 2:45 - 3:45: __RNAseq Data Analysis in R__ (Hands-on) 
 	* <a href="Analysis_and_Normalization.pptx" download> Analysis and Normalization Slides</a>
 	* <a href="DESeq_Workshop.R" download> DESeq\_Workshop.R</a>
