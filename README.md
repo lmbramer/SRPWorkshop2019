@@ -21,6 +21,10 @@ Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statist
 	* <a href="RNA_Seq_Processing.pptx" download> RNA-Seq Processing Slides</a>
 * 10:30 - 10:45: __BREAK__
 * 10:45 - 12:45: __Intro to R/RStudio (Hands-on)__
+	* <a href="Intro_to_R.html" download> Intro to R Document</a>
+	* <a href="R_intro.R" download> R\_Intro.R</a>
+	* <a href="ggplot_tutorial.R" download> ggplot\_tutorial.R</a>
+	* <a href="tidyverse.zip" download> Tidyverse R Presentation Example </a>
 * 12:45 - 1:45: __LUNCH (On your own)__: 
 * 1:45 - 2:45: __Power Analysis in R & Study Design__ (Lecture & Hands-on) 
 * 2:45 - 3:45: __RNAseq Data Analysis in R__ (Hands-on) 
