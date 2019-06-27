@@ -13,6 +13,7 @@ Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statist
 * <a href="Zebrafish_Condition_Info.csv" download> Zebrafish\_Condition\_Info.csv </a>
 * <a href="Raw_Count_Data_Zebrafish.csv" download> Raw\_Count\_Data\_Zebrafish.csv </a>
 * <a href="Normalized_Data_Synechococcus.csv" download> Normalized\_Data\_Synechococcus.csv </a>
+* <a href="Zebrafish_Condition_Info_Correct_Names.csv" download> Zebrafish\_Condition\_Info\_Correct\_Names.csv </a>
 
 ### Day 1 (Thursday 6/27)
 * 8:30 - 9:30: __RNAseq Overview__ (Lecture)
