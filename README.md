@@ -13,6 +13,7 @@ Please follow the instructions in [this document](Software_Requirements_2019.pdf
 * 12:45 - 1:45: __LUNCH (On your own)__: 
 * 1:45 - 2:45: __Power Analysis in R & Study Design__ (Lecture & Hands-on) 
 * 2:45 - 3:45: __RNAseq Data Analysis in R__ (Hands-on) 
+	* <a href="DESeq_Workshop.R" download> DESeq\_Workshop.R</a>
 * 3:45 - 4:00: __BREAK__ 
 * 4:00 - 5:00: __EMT Seminar by Mark Jankowski__ 
 
