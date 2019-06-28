@@ -64,7 +64,7 @@ Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statist
 	* <a href="BRM_BMC Bioinformatics_2019.pdf" download> BRM\_BMC Bioinformatics\_2019 pdf </a>
 	* <a href="File_1_Human_mRNA.txt" download> File\_1\_Human\_mRNA.txt </a>
 	* <a href="File_2_Zebrafish_mRNA.txt" download> File\_2\_Zebrafish\_mRNA.txt </a>
-	* <a href="File\_3\_Human\_miRNA.txt" download> File\_3\_Human\_miRNA.txt </a>
+	* <a href="File_3_Human_miRNA.txt" download> File\_3\_Human\_miRNA.txt </a>
 * 11:30 - 12:30: __LUNCH (On your own)__
 * 12:30 - 2:00: __Network Analysis & Visualization__ (Hands-on)
 	* <a href="Network_Analysis.pptx" download> Network Analysis Slides</a>
