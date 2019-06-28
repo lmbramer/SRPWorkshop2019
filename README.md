@@ -58,6 +58,12 @@ Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statist
 	* <a href="makeVenn_Workshop.R" download> makeVenn\_Workshop.R</a>
 * 10:00 - 10:15: __BREAK__
 * 10:15 - 11:30: __Omics Data Integration__ (Lecture & Hands-on) 
+	* BRM url: <https://cbb.pnnl.gov/brm/>
+	* <a href="Tilton_DataIntegration_lecture.pdf" download> Data Integration Slides</a>
+	* <a href="BRM_BMC Bioinformatics_2019.pdf" download> BRM\_BMC Bioinformatics\_2019 pdf </a>
+	* <a href="File_1_Human_mRNA.txt" download> File\_1\_Human\_mRNA.txt </a>
+	* <a href="File_2_Zebrafish_mRNA.txt" download> File\_2\_Zebrafish\_mRNA.txt </a>
+	* <a href="File\_3\_Human\_miRNA.txt" download> File\_3\_Human\_miRNA.txt </a>
 * 11:30 - 12:30: __LUNCH (On your own)__
 * 12:30 - 2:00: __Network Analysis & Visualization__ (Hands-on)
 	* <a href="Network_Analysis.pptx" download> Network Analysis Slides</a>
