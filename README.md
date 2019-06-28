@@ -73,4 +73,7 @@ Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statist
 	* <a href="Filter_and_Create_Network_NEW_Workshop.R" download> Filter\_and\_Create\_Network\_NEW\_Workshop.R</a>
 	* <a href="Find_Modules_Workshop.R" download> Find\_Modules\_Workshop.R</a> 
 * 2:00 - 3:00: __Data Visualization with Trelliscope__ (Hands-on) 
-
+	* <a href="trelliscope_intro.R" download> trelliscope\_intro.R</a>
+	* <a href="Zebrafish_Subset_Condition_Info.csv" download> Zebrafish\_Subset\_Condition\_Info.csv</a>
+	* <a href="Subset_Norm_Data_Zebrafish.csv" download> Subset\_Norm\_Data\_Zebrafish.csv</a>
+	* <a href="Subset_DESeq2_results.csv" download> Subset\_DESeq2\_results.csv</a>
