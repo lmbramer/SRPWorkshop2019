@@ -6,7 +6,7 @@ Please follow the instructions in [this document](Software_Requirements_2019.pdf
 
 Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statistics_Workshop_Agenda.pdf)
 
-### Data Files
+### Day 1 Data Files
 * <a href="DEGs_5_PAHs.csv" download> DEGs\_5\_PAHs.csv </a>
 * <a href="Norm_Data_Zebrafish_Top5k_CV.csv" download> Norm\_Data\_Zebrafish\_Top5k\_CV.csv </a>
 * <a href="Norm_Data_Zebrafish_Top500_CV_NoOutliers_RepsAv.csv" download> Norm\_Data\_Zebrafish\_Top500\_CV\_NoOutliers\_RepsAv.csv </a>
@@ -14,6 +14,16 @@ Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statist
 * <a href="Raw_Count_Data_Zebrafish.csv" download> Raw\_Count\_Data\_Zebrafish.csv </a>
 * <a href="Normalized_Data_Synechococcus.csv" download> Normalized\_Data\_Synechococcus.csv </a>
 * <a href="Zebrafish_Condition_Info_Correct_Names.csv" download> Zebrafish\_Condition\_Info\_Correct\_Names.csv </a>
+
+### Day 2 Data Files
+* <a href="Norm_Data_Zebrafish_Top5k_CV_NoOutliers.csv" download> Norm\_Data\_Zebrafish\_Top5k\_CV\_NoOutliers.csv </a>
+* <a href="Norm_Data_Zebrafish_Top5k_CV_NoOutliers_Transpose_ExpAdded.csv" download> Norm\_Data\_Zebrafish\_Top5k\_CV\_NoOutliers\_Transpose\_ExpAdded.csv </a>
+* <a href="Norm_Data_Zebrafish_Retene_v_Control_ALL.csv" download> Norm\_Data\_Zebrafish\_Retene\_v\_Control\_ALL.csv </a>
+* <a href="Normalized_Data_Synechococcus_Transpose.csv" download> Normalized\_Data\_Synechococcus\_Transpose.csv </a>
+* <a href="Normalized_Data_Synechococcus_Transpose_Unwht_9.235387.graphml" download> graphml file </a>
+* <a href="Normalized_Data_Synechococcus_Transpose_Unwht_9.235387.sif" download> sif file </a>
+* <a href="Normalized_Data_Synechococcus_Transpose_Unwht_9.235387_Min12_Mods.csv" download> Normalized\_Data\_Synechococcus\_Transpose\_Unwht\_9.235387\_Min12\_Mods.csv </a>
+* <a href="Normalized_Data_Synechococcus_Transpose_Unwht_9.235387_Min12_Mods_Sizes.csv" download> Normalized\_Data\_Synechococcus\_Transpose\_Unwht\_9.235387\_Min12\_Mods\_Sizes.csv </a>
 
 ### Day 1 (Thursday 6/27)
 * 8:30 - 9:30: __RNAseq Overview__ (Lecture)
