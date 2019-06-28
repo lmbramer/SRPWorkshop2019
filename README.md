@@ -24,6 +24,7 @@ Detailed Workshop Agenda can be found [here](2019_SRP_Bioinformatics_and_Statist
 * <a href="Normalized_Data_Synechococcus_Transpose_Unwht_9.235387.sif" download> sif file </a>
 * <a href="Normalized_Data_Synechococcus_Transpose_Unwht_9.235387_Min12_Mods.csv" download> Normalized\_Data\_Synechococcus\_Transpose\_Unwht\_9.235387\_Min12\_Mods.csv </a>
 * <a href="Normalized_Data_Synechococcus_Transpose_Unwht_9.235387_Min12_Mods_Sizes.csv" download> Normalized\_Data\_Synechococcus\_Transpose\_Unwht\_9.235387\_Min12\_Mods\_Sizes.csv </a>
+* <a href="Norm_Data_Zebrafish_Top500_CV_NoOutliers_RepsAv_RowNorm.csv" download> Norm\_Data\_Zebrafish\_Top500\_CV\_NoOutliers\_RepsAv\_RowNorm.csv </a>
 
 ### Day 1 (Thursday 6/27)
 * 8:30 - 9:30: __RNAseq Overview__ (Lecture)
